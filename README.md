@@ -1,5 +1,5 @@
-# <img src="instapict.jpg" width="750px" height="250px">
+# <img src="instapict.jpg" width="550px" height="250px">
 <br/>
-# INSTACRACK by DEVANDYAN
+# <strong>INSTACRACK by DEVANDYAN</strong>
 <br/>
 
