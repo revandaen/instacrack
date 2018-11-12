@@ -2,4 +2,4 @@
 <br/>
 # <strong>INSTACRACK by DEVAN_STYLENT</strong>
 <br/>
-<marquee scrollamount="10">Kecepatan Tulisan berjalan 10</marquee>
+
