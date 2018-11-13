@@ -74,6 +74,6 @@ function banner2()
     $banner4 = "[✓] KIGI TEAM & DEVELOPMENT | JANCOK COMMUNITY\n\n";
     $banner5 = "—————————————————————————————————————————————————————
 
-    return $banner."".$banner2."".$banner3."".$banner4.""$banner5.";
+    return $banner."".$banner2."".$banner3."".$banner4.""$banner5;
 }
 ?>
