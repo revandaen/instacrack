@@ -70,10 +70,10 @@ function banner2()
 {
     $banner  = "[✓] CODE BY DEVAN_STYLENT\n";
     $banner2 = "[✓] FIXING & TESTING BY INDRA SEPTYAN\n\n";
-    $banner3 = "[✓] NO SYSTEM IS SAFE\n\n";
-    $banner4 = "[✓] KIGI TEAM & DEVELOPMENT | JANCOK COMMUNITY\n\n";
-    $banner5 = "—————————————————————————————————————————————————————
+    $banner2 = "[✓] NO SYSTEM IS SAFE\n\n";
+    $banner2 = "[✓] KIGI TEAM & DEVELOPMENT | JANCOK COMMUNITY\n\n";
+    $banner2 = "—————————————————————————————————————————————————————
 
-    return $banner."".$banner2."".$banner3."".$banner4.""$banner5;
+    return $banner."".$banner2;
 }
 ?>
