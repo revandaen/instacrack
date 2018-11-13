@@ -47,12 +47,12 @@ function version()
 function banner()
 {
     $string = "
-AUTO BOT LIKES INSTAGRAM V.1.2
-KAMIKAZE NTHANFP KAMIKAZE
-AUTO FOLLOW INSTAGRAM V.1.2
-KAMIKAZE NTHANFP KAMIKAZE
-AUTO UNFOLLOW INSTAGRAM V.1.2
-SELAMAT MENGGUNAKAN SCRIPT INI
+╦┌┐┌┌─┌─┐┬─┐┬ ┬┌─┐┬─┐
+  ║│││├─│ │├┬┘│││├─┤├┬┘
+  ╩┘└┘┴ └─┘┴└─┴┴┴┴ ┴┴└─
+  ╔╦╗┌─┐┌─┐┬  ┌─┐    ©2018
+   ║ │ ││ ││  └─┐   IWRTeam
+   ╩ └─┘└─┘┴─┘└─┘   ------- 
                                               \n";
 
     return $string;
@@ -60,7 +60,7 @@ SELAMAT MENGGUNAKAN SCRIPT INI
 
 function banner1()
 {
-    $banner  = "==== Instagram Tools Ver ".version()." ====\n";
+    $banner  = "——————————————————  [THANKS TO]  ————————————————————\n";
 
     return $banner;
 
@@ -68,9 +68,12 @@ function banner1()
 
 function banner2()
 {
-    $banner  = "============ Code by ============\n";
-    $banner2 = "======= KAMIKAZE | NTHANFP =======\n\n";
+    $banner  = "[✓] CODE BY DEVAN_STYLENT\n";
+    $banner2 = "[✓] FIXING & TESTING BY INDRA SEPTYAN\n\n";
+    $banner3 = "[✓] NO SYSTEM IS SAFE\n\n";
+    $banner4 = "[✓] KIGI TEAM & DEVELOPMENT | JANCOK COMMUNITY\n\n";
+    $banner5 = "—————————————————————————————————————————————————————
 
-    return $banner."".$banner2;
+    return $banner."".$banner2."".$banner3."".$banner4.""$banner5.";
 }
 ?>
